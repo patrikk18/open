@@ -3,7 +3,7 @@ Open
 An Open Source Social Network. Available @ http://open.subinsb.com
 Feel free to contribute and please report bugs if you find any.
 
-If you need help, documentation and other info about Open, please see our blog : http://open.subinsb.com/blog
+If you need help, documentation and other info about Open, plase see our blog : http://open.subinsb.com/blog
 
 Note that the blog folder is not included in source code. The blog is ran using Wordpress.
 
